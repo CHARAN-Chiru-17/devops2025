@@ -1,0 +1,7 @@
+linux caommads
+python bsaic
+bash scripting
+git commands
+jenkins
+anisble
+
